@@ -1,4 +1,4 @@
-# Python for Security Automation 🐍
+# Python for Security Automation 
 
 ## Overview 
 A collection of Python scripts for security 
